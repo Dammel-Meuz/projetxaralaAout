@@ -7,3 +7,11 @@ body{
     background-color: aliceblue;
     color: black;
 }
+.group{
+   background-color: aliceblue; 
+   
+}
+.nom{
+    color: black;
+    font-size: 6px;
+}
